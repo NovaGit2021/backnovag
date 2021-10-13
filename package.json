@@ -1,0 +1,18 @@
+{
+  "name": "api-novagit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/NovaGit2021/backnovag",
+  "author": "Milena Palechor Bautista <samypb28@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
