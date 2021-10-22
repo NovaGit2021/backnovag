@@ -5,7 +5,7 @@ import Cors from "cors";
 
 
 const stringbaseDeDatos =
-    "mongodb+srv://jlcandamil:Osiris23@proyectozapatillas.w8scl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+    "mongodb+srv://milenapb:Lucianac2019@proyectozapatillas.w8scl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
 
 const client = new MongoClient(stringbaseDeDatos, {
     useNewUrlParser: true,
